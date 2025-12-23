@@ -1,22 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "DocMath-Eval: Evaluating Math Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents"
+    authors: "Y. Zhao, Y. Long, H. Liu, R. Kamoi, L. Nan, <strong>L. Chen</strong>, Y. Liu, X. Tang, R. Zhang, et al."
+    conference: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
+    conference_short: "ACL 2024"
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "TaPERA: Enhancing Faithfulness and Interpretability in Long-Form Table QA by Content Planning and Execution-Based Reasoning"
+    authors: "Y. Zhao, <strong>L. Chen</strong>, A. Cohan, C. Zhao"
+    conference: "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024)"
+    conference_short: "ACL 2024"
+
+  - title: "Revisiting Automated Evaluation for Long-Form Table Question Answering"
+    authors: "Y. Wang, <strong>L. Chen</strong>, S. Cai, Z. Xu, Y. Zhao"
+    conference: "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)"
+    conference_short: "EMNLP 2024"
+
+  - title: "OpenT2T: An Open-Source Toolkit for Table-to-Text Generation"
+    authors: "H. Zhang, S. Si, Y. Zhao, L. Xie, Z. Xu, <strong>L. Chen</strong>, L. Nan, P. Wang, X. Tang, et al."
+    conference: "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024)"
+    conference_short: "EMNLP 2024"
+
+
+  - title: "Table-R1: Inference-Time Scaling for Table Reasoning Tasks"
+    authors: "Z. Yang, <strong>L. Chen</strong>, A. Cohan, Y. Zhao"
+    conference: "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)"
+    conference_short: "EMNLP 2025"
+
+  - title: "PAT3D: Physics-Augmented Text-to-3D Scene Generation"
+    authors: "G. Lin, K. Huang, M. Liu, R. Gao, H. Chen, <strong>L. Chen</strong>, B. Lu, T. Komura, Y. Liu, et al."
+    conference: "arXiv preprint"
+    conference_short: "arXiv"
